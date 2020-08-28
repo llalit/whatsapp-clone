@@ -1,0 +1,6 @@
+{
+    "bemHelper.ignoreClassNames": [
+    
+        "material-icons"
+    ]
+}
